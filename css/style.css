@@ -1,0 +1,9 @@
+body {
+    background-color: #dcdcdc;
+}
+
+.container {
+    max-width: 35%;
+    border-radius: 7px;
+    background-color: #fff;
+} 
